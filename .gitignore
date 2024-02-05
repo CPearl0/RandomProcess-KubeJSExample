@@ -1,0 +1,15 @@
+/.vscode
+/backups
+/defaultconfigs
+/local
+/logs
+/natives-*
+/resourcepacks
+/saves
+log4j2.xml
+options.txt
+RandomProcess.jar
+RandomProcess.json
+rhino.local.properties
+usercache.json
+usernamecache.json
